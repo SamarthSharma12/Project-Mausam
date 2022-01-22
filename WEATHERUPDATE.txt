@@ -1,0 +1,160 @@
+1) 1/5, Swatantrata Senani Adhyapak Ram Ratan Marg, Raja ki Mandi, Agra, Uttar Pradesh 282001, India:
+broken clouds:
+TEMPERATURE(in C):17 
+FEELS LIKE:(in C) 15
+Humidity %: 42
+Visibility(in meters): 10000
+
+
+2) 6X69+32, Transport Nagar, Agra, Uttar Pradesh 282007, India:
+broken clouds:
+TEMPERATURE(in C):17 
+FEELS LIKE:(in C) 15
+Humidity %: 42
+Visibility(in meters): 10000
+
+
+3) National Highway 2, Artauni, Agra, Artauni, Agra, Uttar Pradesh 282007, India:
+broken clouds:
+TEMPERATURE(in C):16 
+FEELS LIKE:(in C) 15
+Humidity %: 43
+Visibility(in meters): 10000
+
+
+4) NH 44, Raipura Jat, Uttar Pradesh 281122, India:
+overcast clouds:
+TEMPERATURE(in C):16 
+FEELS LIKE:(in C) 15
+Humidity %: 44
+Visibility(in meters): 10000
+
+
+5) Farah, Farah, Uttar Pradesh 281122, India:
+overcast clouds:
+TEMPERATURE(in C):16 
+FEELS LIKE:(in C) 15
+Humidity %: 45
+Visibility(in meters): 10000
+
+
+6) 9PC3+6RC, Mathura, Uttar Pradesh 281005, India:
+overcast clouds:
+TEMPERATURE(in C):16 
+FEELS LIKE:(in C) 15
+Humidity %: 46
+Visibility(in meters): 10000
+
+
+7) District Institute of Education & Training, Koila Alipur Bangar, Uttar Pradesh 281006, India:
+broken clouds:
+TEMPERATURE(in C):16 
+FEELS LIKE:(in C) 15
+Humidity %: 46
+Visibility(in meters): 10000
+
+
+8) 525, 525, Mathura Bypass Rd, Shri Radha Puram, Vishwalaxmi Nagar, Mathura, Uttar Pradesh 281001, India:
+broken clouds:
+TEMPERATURE(in C):16 
+FEELS LIKE:(in C) 15
+Humidity %: 46
+Visibility(in meters): 10000
+
+
+9) Chhatikara, Chhatikara, Uttar Pradesh 281121, India:
+broken clouds:
+TEMPERATURE(in C):16 
+FEELS LIKE:(in C) 15
+Humidity %: 46
+Visibility(in meters): 10000
+
+
+10) Srinagar - Kanyakumari Hwy, Ajhai Kalan, Uttar Pradesh 281406, India:
+broken clouds:
+TEMPERATURE(in C):16 
+FEELS LIKE:(in C) 15
+Humidity %: 46
+Visibility(in meters): 10000
+
+
+11) Hodal - Hassanpur Rd, Chhata, Uttar Pradesh 281401, India:
+broken clouds:
+TEMPERATURE(in C):16 
+FEELS LIKE:(in C) 15
+Humidity %: 45
+Visibility(in meters): 10000
+
+
+12) Hodal - Kosi Rd, Hasanpur Nagla, Uttar Pradesh 281403, India:
+overcast clouds:
+TEMPERATURE(in C):16 
+FEELS LIKE:(in C) 15
+Humidity %: 45
+Visibility(in meters): 10000
+
+
+13) Asian Highway 1, Banchari, Haryana 121106, India:
+overcast clouds:
+TEMPERATURE(in C):16 
+FEELS LIKE:(in C) 15
+Humidity %: 45
+Visibility(in meters): 10000
+
+
+14) NH19, Mitrol, Haryana 121105, India:
+overcast clouds:
+TEMPERATURE(in C):17 
+FEELS LIKE:(in C) 16
+Humidity %: 44
+Visibility(in meters): 10000
+
+
+15) 4, 4, Mathura Rd, Ramnagar, Palwal, Haryana 121102, India:
+broken clouds:
+TEMPERATURE(in C):17 
+FEELS LIKE:(in C) 16
+Humidity %: 43
+Visibility(in meters): 10000
+
+
+16) Srinagar - Kanyakumari Hwy, Pirthla, Haryana 121102, India:
+broken clouds:
+TEMPERATURE(in C):17 
+FEELS LIKE:(in C) 16
+Humidity %: 41
+Visibility(in meters): 10000
+
+
+17) 88J7+4WX, Ajji Colony, Ballabhgarh, Faridabad, Haryana 121004, India:
+broken clouds:
+TEMPERATURE(in C):17 
+FEELS LIKE:(in C) 16
+Humidity %: 38
+Visibility(in meters): 10000
+
+
+18) AH1, Industrial Area, Sector 19, Faridabad, Haryana 121003, India:
+broken clouds:
+TEMPERATURE(in C):17 
+FEELS LIKE:(in C) 15
+Humidity %: 34
+Visibility(in meters): 10000
+
+
+19) Sarita Vihar, Pocket B, Sarita Vihar, New Delhi, Delhi 110076, India:
+smoke:
+TEMPERATURE(in C):17 
+FEELS LIKE:(in C) 16
+Humidity %: 55
+Visibility(in meters): 2200
+
+
+20) 3/5 Old Double Storey, Nizamuddin, National Zoological Park, Lajpat Nagar 4, New Delhi, Delhi 110059, India:
+smoke:
+TEMPERATURE(in C):17 
+FEELS LIKE:(in C) 16
+Humidity %: 55
+Visibility(in meters): 2200
+
+
